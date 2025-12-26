@@ -5,9 +5,9 @@
       "words": [
         { "lebanese": "akid", "english": "of course" },
         { "lebanese": "yalla", "english": "let's go / hurry up" },
-        { "lebanese": "kifak", "english": "how are you (masculine)" },
-        { "lebanese": "kifik", "english": "how are you (feminine)" },
-        { "lebanese": "marhaba", "english": "hello" }
+        { "lebanese": "kifak", "english": "how are you (to a male)" },
+        { "lebanese": "kifik", "english": "how are you (to a female)" },
+        { "lebanese": "mar7aba", "english": "hello" }
       ]
     },
     {
