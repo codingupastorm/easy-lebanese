@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "name": "Common Phrases",
+      "words": [
+        { "lebanese": "akid", "english": "of course" },
+        { "lebanese": "yalla", "english": "let's go / hurry up" },
+        { "lebanese": "kifak", "english": "how are you (masculine)" },
+        { "lebanese": "kifik", "english": "how are you (feminine)" },
+        { "lebanese": "marhaba", "english": "hello" }
+      ]
+    },
+    {
+      "name": "Nouns around the home",
+      "words": [
+        { "lebanese": "tawleh", "english": "table" },
+        { "lebanese": "kirseh", "english": "chair" },
+        { "lebanese": "bab", "english": "door" },
+        { "lebanese": "shibbak", "english": "window" }
+      ]
+    },
+    {
+      "name": "Verbs",
+      "words": [
+        { "lebanese": "akol", "english": "to eat" },
+        { "lebanese": "ishrab", "english": "to drink" },
+        { "lebanese": "nam", "english": "to sleep" },
+        { "lebanese": "rouh", "english": "to go" }
+      ]
+    },
+    {
+      "name": "The Weather",
+      "words": [
+        { "lebanese": "shames", "english": "sun" },
+        { "lebanese": "shiteh", "english": "rain" },
+        { "lebanese": "bard", "english": "cold" },
+        { "lebanese": "shob", "english": "hot" }
+      ]
+    }
+  ]
+}
