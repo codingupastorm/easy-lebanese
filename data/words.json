@@ -1,13 +1,27 @@
 {
   "categories": [
     {
-      "name": "Common Phrases",
+      "name": "Arabic Sounds",
       "words": [
-        { "lebanese": "akid", "english": "of course" },
-        { "lebanese": "yalla", "english": "let's go / hurry up" },
+        { "lebanese": "2", "english": "uh" },
+        { "lebanese": "3", "english": "aah" },
+        { "lebanese": "5", "english": "kh" },
+        { "lebanese": "7", "english": "ha" },
+        { "lebanese": "8", "english": "gh" }
+      ]
+    },
+    {
+      "name": "Greetings / Common Words",
+      "words": [
+        { "lebanese": "mar7aba", "english": "hello" },
         { "lebanese": "kifak", "english": "how are you (to a male)" },
         { "lebanese": "kifik", "english": "how are you (to a female)" },
-        { "lebanese": "mar7aba", "english": "hello" }
+        { "lebanese": "ana", "english": "I" },
+        { "lebanese": "enta", "english": "you (male)" },
+        { "lebanese": "ente", "english": "you (female)" },
+        { "lebanese": "mni7", "english": "good (male)" },
+        { "lebanese": "mni7a", "english": "good (female)" },
+        { "lebanese": "yalla", "english": "let's go / hurry up" },
       ]
     },
     {
@@ -22,14 +36,14 @@
     {
       "name": "Verbs",
       "words": [
-        { "lebanese": "akol", "english": "to eat" },
-        { "lebanese": "ishrab", "english": "to drink" },
-        { "lebanese": "nam", "english": "to sleep" },
-        { "lebanese": "rouh", "english": "to go" }
+        { "lebanese": "akol", "english": "eat" },
+        { "lebanese": "eshrab", "english": "drink" },
+        { "lebanese": "nem", "english": "sleep" },
+        { "lebanese": "rou7", "english": "go" }
       ]
     },
     {
-      "name": "The Weather",
+      "name": "Colours",
       "words": [
         { "lebanese": "shames", "english": "sun" },
         { "lebanese": "shiteh", "english": "rain" },
