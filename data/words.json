@@ -146,6 +146,10 @@
         {
           "lebanese": "fem",
           "english": "understand"
+        },
+        {
+          "lebanese": "lebis",
+          "english": "wear (regarding clothing - aka to put on)"
         }
       ]
     },
@@ -196,12 +200,69 @@
         {
           "lebanese": "khadra",
           "english": "green (female)"
+        },
+        {
+          "lebanese": "asfar",
+          "english": "yellow (male)"
+        },
+        {
+          "lebanese": "safra",
+          "english": "yellow (female)"
+        },
+        {
+          "lebanese": "banafsachee",
+          "english": "purple"
+        },
+        {
+          "lebanese": "abyaard",
+          "english": "white (male)"
+        },
+        {
+          "lebanese": "baida",
+          "english": "white (female)"
+        },
+        {
+          "lebanese": "aswad",
+          "english": "black (male)"
+        },
+        {
+          "lebanese": "sawooda",
+          "english": "black (female)"
+        },
+        {
+          "lebanese": "za7ree",
+          "english": "pink (male)"
+        },
+        {
+          "lebanese": "za7reeye",
+          "english": "pink (female)"
+        },
+        {
+          "lebanese": "fadde",
+          "english": "silver (male)"
+        },
+        {
+          "lebanese": "faddiye",
+          "english": "silver (female)"
         }
       ]
     },
     {
       "name": "Clothes",
-      "words": []
+      "words": [
+        {
+          "lebanese": "amiss",
+          "english": "shirt"
+        },
+        {
+          "lebanese": "kanze",
+          "english": "t-shirt"
+        },
+        {
+          "lebanese": "kanze",
+          "english": "t-shirt"
+        }
+      ]
     }
   ]
 }
