@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "Nouns around the home",
+      "name": "Nouns",
       "words": [
         {
           "lebanese": "tawleh",
@@ -121,6 +121,10 @@
         {
           "lebanese": "kibbaye",
           "english": "cup"
+        },
+        {
+          "lebanese": "siyara",
+          "english": "car"
         }
       ]
     },
@@ -244,7 +248,31 @@
         {
           "lebanese": "faddiye",
           "english": "silver (female)"
-        }
+        },
+        {
+          "lebanese": "dahab",
+          "english": "gold (male)"
+        },
+        {
+          "lebanese": "dahabiye",
+          "english": "gold (female)"
+        },
+        {
+          "lebanese": "ramadi",
+          "english": "grey (male)"
+        },
+        {
+          "lebanese": "ramadiye",
+          "english": "grey (female)"
+        },
+        {
+          "lebanese": "nili",
+          "english": "navy blue (male)"
+        },
+        {
+          "lebanese": "niliye",
+          "english": "navy blue (female)"
+        },
       ]
     },
     {
@@ -261,6 +289,10 @@
         {
           "lebanese": "kanze",
           "english": "t-shirt"
+        },
+        {
+          "lebanese": "skarbine",
+          "english": "stilettos"
         }
       ]
     }
