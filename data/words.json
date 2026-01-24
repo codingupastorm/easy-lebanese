@@ -3,64 +3,205 @@
     {
       "name": "Arabic Sounds",
       "words": [
-        { "lebanese": "2", "english": "uh" },
-        { "lebanese": "3", "english": "aah" },
-        { "lebanese": "5", "english": "kh" },
-        { "lebanese": "7", "english": "ha" },
-        { "lebanese": "8", "english": "gh" }
+        {
+          "lebanese": "2",
+          "english": "uh"
+        },
+        {
+          "lebanese": "3",
+          "english": "aah"
+        },
+        {
+          "lebanese": "5",
+          "english": "kh"
+        },
+        {
+          "lebanese": "7",
+          "english": "ha"
+        },
+        {
+          "lebanese": "8",
+          "english": "gh"
+        }
       ]
     },
     {
       "name": "Greetings / Common Words",
       "words": [
-        { "lebanese": "mar7aba", "english": "hello" },
-        { "lebanese": "kifak", "english": "how are you (to a male)" },
-        { "lebanese": "kifik", "english": "how are you (to a female)" },
-        { "lebanese": "ana", "english": "I" },
-        { "lebanese": "enta", "english": "you (male)" },
-        { "lebanese": "ente", "english": "you (female)" },
-        { "lebanese": "mni7", "english": "good (male)" },
-        { "lebanese": "mni7a", "english": "good (female)" },
-        { "lebanese": "yalla", "english": "let's go / hurry up" },
-        { "lebanese": "yerrja", "english": "again" },
-        { "lebanese": "ktir", "english": "a lot" },
-        { "lebanese": "shi", "english": "something" },
-        { "lebanese": "kell shi", "english": "everything" }
+        {
+          "lebanese": "mar7aba",
+          "english": "hello"
+        },
+        {
+          "lebanese": "kifak",
+          "english": "how are you (to a male)"
+        },
+        {
+          "lebanese": "kifik",
+          "english": "how are you (to a female)"
+        },
+        {
+          "lebanese": "mni7",
+          "english": "good (male)"
+        },
+        {
+          "lebanese": "mni7a",
+          "english": "good (female)"
+        },
+        {
+          "lebanese": "yalla",
+          "english": "let's go / hurry up"
+        },
+        {
+          "lebanese": "yerrja",
+          "english": "again"
+        },
+        {
+          "lebanese": "ktir",
+          "english": "a lot"
+        },
+        {
+          "lebanese": "shi",
+          "english": "something"
+        },
+        {
+          "lebanese": "kell shi",
+          "english": "everything"
+        }
+      ]
+    },
+    {
+      "name": "Pronouns",
+      "words": [
+        {
+          "lebanese": "ana",
+          "english": "I"
+        },
+        {
+          "lebanese": "enta",
+          "english": "you (male)"
+        },
+        {
+          "lebanese": "ente",
+          "english": "you (female)"
+        },
+        {
+          "lebanese": "houwe",
+          "english": "him"
+        },
+        {
+          "lebanese": "hiyye",
+          "english": "her"
+        },
+        {
+          "lebanese": "henne",
+          "english": "them"
+        }
       ]
     },
     {
       "name": "Nouns around the home",
       "words": [
-        { "lebanese": "tawleh", "english": "table" },
-        { "lebanese": "kirseh", "english": "chair" },
-        { "lebanese": "bab", "english": "door" },
-        { "lebanese": "shibbak", "english": "window" },
-        { "lebanese": "kibbaye", "english": "cup" }
+        {
+          "lebanese": "tawleh",
+          "english": "table"
+        },
+        {
+          "lebanese": "kirseh",
+          "english": "chair"
+        },
+        {
+          "lebanese": "bab",
+          "english": "door"
+        },
+        {
+          "lebanese": "shibbak",
+          "english": "window"
+        },
+        {
+          "lebanese": "kibbaye",
+          "english": "cup"
+        }
       ]
     },
     {
       "name": "Verbs",
       "words": [
-        { "lebanese": "akol", "english": "eat" },
-        { "lebanese": "eshrab", "english": "drink" },
-        { "lebanese": "nem", "english": "sleep" },
-        { "lebanese": "rou7", "english": "go" },
-        { "lebanese": "fem", "english": "understand" }
+        {
+          "lebanese": "akol",
+          "english": "eat"
+        },
+        {
+          "lebanese": "eshrab",
+          "english": "drink"
+        },
+        {
+          "lebanese": "nem",
+          "english": "sleep"
+        },
+        {
+          "lebanese": "rou7",
+          "english": "go"
+        },
+        {
+          "lebanese": "fem",
+          "english": "understand"
+        }
       ]
     },
     {
       "name": "Weather",
       "words": [
-        { "lebanese": "shames", "english": "sun" },
-        { "lebanese": "shiteh", "english": "rain" },
-        { "lebanese": "bard", "english": "cold" },
-        { "lebanese": "shob", "english": "hot" }
+        {
+          "lebanese": "shames",
+          "english": "sun"
+        },
+        {
+          "lebanese": "shiteh",
+          "english": "rain"
+        },
+        {
+          "lebanese": "bard",
+          "english": "cold"
+        },
+        {
+          "lebanese": "shob",
+          "english": "hot"
+        }
+      ]
+    },
+    {
+      "name": "Colours",
+      "words": [
+        {
+          "lebanese": "ahmar",
+          "english": "red (male)"
+        },
+        {
+          "lebanese": "hamra",
+          "english": "red (female)"
+        },
+        {
+          "lebanese": "az3ra",
+          "english": "blue (male)"
+        },
+        {
+          "lebanese": "zara",
+          "english": "blue (female)"
+        },
+        {
+          "lebanese": "a5dar",
+          "english": "green (male)"
+        },
+        {
+          "lebanese": "khadra",
+          "english": "green (female)"
+        }
       ]
     },
     {
       "name": "Clothes",
-      "words": [
-      ]
+      "words": []
     }
   ]
 }
